@@ -4,7 +4,7 @@ www.micstevenson.co.uk
 
 🥇 Shortlisted for 2021 Digital DNA awards for <a href="https://twitter.com/DigitalDNAHQ/status/1402943625848360966">Developer of the year</a>
 
-I am a developer formerly of @dof-dss in the Northern Ireland Civil Service but now of Fujitsu Northern Ireladn. 
+I am a developer formerly of @dof-dss in the Northern Ireland Civil Service but now of Fujitsu Northern Ireland. 
 
 I use a variety of technologies and techniques i.e C#, Design patterns, SOLID, DotNet Core, MVC, api, ml.net, SQL, MySql, AWS, Cloud Foundry, Azure, Gov UK PaaS, CircleCI, AzureDevops, Units tests, UI tests etc...
 
